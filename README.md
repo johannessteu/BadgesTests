@@ -19,15 +19,15 @@
 | What | Badge | 
 | --- |:---|
 | Github forks |[![GitHub forks](https://img.shields.io/github/forks/wulas/BadgesTests.svg?style=social&label=Fork&maxAge=2592000?style=flat-square)]()|
-| Github stars | [![Github stars](https://img.shields.io/github/release/wulas/BadgesTests.svg?maxAge=2592000)]() |
-| Github watchers | [![Github watchers](https://img.shields.io/github/commits-since/wulas/BadgesTests/0.0.1.svg?maxAge=2592000)]() |
-| Github followers | [![Github followers](https://img.shields.io/github/followers/wulas/BadgesTests.svg?maxAge=2592000)]() |
+| Github stars | [![Github stars](https://img.shields.io/github/stars/wulas/BadgesTests.svg?style=social&label=Star&maxAge=2592000)]() |
+| Github watchers | [![Github watchers](https://img.shields.io/github/watchers/wulas/BadgesTests.svg?style=social&label=Watch&maxAge=2592000)]() |
+| Github followers | [![Github followers](https://img.shields.io/github/followers/wulas.svg?style=social&label=Follow&maxAge=2592000)]()|
 
+##**Your own badge**
+| What | Badge | 
+| --- |:---|
+| TAP is growing |[![GitHub forks](https://img.shields.io/badge/TrustedAnalytics-GROWING-green.svg)]()|
 
-GitHub forks:		https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork
-GitHub stars:		https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star
-GitHub watchers:		https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch
-GitHub followers:		https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow
 Miscellaneous
 
 GitHub issues:		https://img.shields.io/github/issues/badges/shields.svg
@@ -41,7 +41,11 @@ GitHub closed pull requests:		https://img.shields.io/github/issues-pr-closed/cdn
 	https://img.shields.io/github/issues-pr-closed-raw/cdnjs/cdnjs.svg
 GitHub contributors:		https://img.shields.io/github/contributors/cdnjs/cdnjs.svg
 license:		https://img.shields.io/github/license/mashape/apistatus.svg
-Longer Miscellaneous
+
+##**Longer Miscellaneous**
+| What | Badge | 
+| --- |:---|
+| Libraries.io for GitHub |[![GitHub forks](https://img.shields.io/librariesio/github/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]()|
 
 Libraries.io for GitHub:		https://img.shields.io/librariesio/github/phoenixframework/phoenix.svg
 
