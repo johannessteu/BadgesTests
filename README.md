@@ -28,10 +28,13 @@
 | --- |:---|
 | TAP is growing |[![GitHub forks](https://img.shields.io/badge/TrustedAnalytics-GROWING-green.svg)]()|
 
-Miscellaneous
+##**Miscellaneous**
+| What | Badge | 
+| --- |:---|
+| GitHub issues |[![GitHub issues](https://img.shields.io/github/issues/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() [![GitHub issues](https://img.shields.io/github/issues-raw/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() |
+| GitHub closed issues |[![GitHub issues](https://img.shields.io/github/issues-closed/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() [![GitHub issues](https://img.shields.io/github/issues-closed-raw/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() |
 
-GitHub issues:		https://img.shields.io/github/issues/badges/shields.svg
-	https://img.shields.io/github/issues-raw/badges/shields.svg
+
 GitHub closed issues:		https://img.shields.io/github/issues-closed/badges/shields.svg
 	https://img.shields.io/github/issues-closed-raw/badges/shields.svg
 label:		https://img.shields.io/github/issues-raw/badges/shields/website.svg
@@ -45,7 +48,7 @@ license:		https://img.shields.io/github/license/mashape/apistatus.svg
 ##**Longer Miscellaneous**
 | What | Badge | 
 | --- |:---|
-| Libraries.io for GitHub |[![GitHub forks](https://img.shields.io/librariesio/github/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]()|
+| Libraries.io for GitHub |[![GitHub forks](https://img.shields.io/librariesio/github/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)](https://libraries.io/github/wulas/BadgesTests)|
 
 Libraries.io for GitHub:		https://img.shields.io/librariesio/github/phoenixframework/phoenix.svg
 
