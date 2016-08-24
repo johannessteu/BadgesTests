@@ -1,13 +1,15 @@
-# BadgesTests
+# BadgesTests - Testing Various Repo Badges
 
-##Testing Various Repo Badges
+##**Downloads**
 
-**Downloads**
 Github All Releases: 		[![Github All Releases](https://img.shields.io/github/downloads/wulas/BadgesTests/total.svg?maxAge=2592000)]()
+
 Github Releases:		[![Github Releases](https://img.shields.io/github/downloads/wulas/BadgesTests/latest/total.svg?maxAge=2592000)]()
+
 Github Releases (by Release):	[![Github Releases](https://img.shields.io/github/downloads/wulas/BadgesTests/0.0.1/total.svg?maxAge=2592000)]()	
 
-Version
+##**Version**
+
 GitHub tag:		https://img.shields.io/github/tag/strongloop/express.svg
 GitHub release:		https://img.shields.io/github/release/qubyte/rubidium.svg
 GitHub commits:		https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg
