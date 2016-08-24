@@ -21,7 +21,7 @@
 | Github forks |[![GitHub forks](https://img.shields.io/github/forks/wulas/BadgesTests.svg?style=social&label=Fork&maxAge=2592000?style=flat-square)]()|
 | Github stars | [![Github stars](https://img.shields.io/github/stars/wulas/BadgesTests.svg?style=social&label=Star&maxAge=2592000)]() |
 | Github watchers | [![Github watchers](https://img.shields.io/github/watchers/wulas/BadgesTests.svg?style=social&label=Watch&maxAge=2592000)]() |
-| Github followers | [![Github followers](https://img.shields.io/github/followers/wulas.svg?style=social&label=Follow&maxAge=2592000)]()|
+| Github organization/author followers | [![Github followers](https://img.shields.io/github/followers/wulas.svg?style=social&label=Follow&maxAge=2592000)]()|
 
 ##**Your own badge**
 | What | Badge | 
