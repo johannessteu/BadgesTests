@@ -33,17 +33,11 @@
 | --- |:---|
 | GitHub issues |[![GitHub issues](https://img.shields.io/github/issues/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() [![GitHub issues](https://img.shields.io/github/issues-raw/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() |
 | GitHub closed issues |[![GitHub issues](https://img.shields.io/github/issues-closed/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() [![GitHub issues](https://img.shields.io/github/issues-closed-raw/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() |
+| GitHub pull requests |[![GitHub issues](https://img.shields.io/github/issues-pr/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() [![GitHub issues](https://img.shields.io/github/issues-pr-raw/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() |
+| GitHub closed pull requests |[![GitHub issues](https://img.shields.io/github/issues-pr-closed/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() [![GitHub issues](https://img.shields.io/github/issues-pr-closed-raw/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]() |
+| GitHub contributors |[![GitHub contributors](https://img.shields.io/github/contributors/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]()  |
+| License |[![GitHub issues](https://img.shields.io/github/license/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)]()  |
 
-
-GitHub closed issues:		https://img.shields.io/github/issues-closed/badges/shields.svg
-	https://img.shields.io/github/issues-closed-raw/badges/shields.svg
-label:		https://img.shields.io/github/issues-raw/badges/shields/website.svg
-GitHub pull requests:		https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg
-	https://img.shields.io/github/issues-pr-raw/cdnjs/cdnjs.svg
-GitHub closed pull requests:		https://img.shields.io/github/issues-pr-closed/cdnjs/cdnjs.svg
-	https://img.shields.io/github/issues-pr-closed-raw/cdnjs/cdnjs.svg
-GitHub contributors:		https://img.shields.io/github/contributors/cdnjs/cdnjs.svg
-license:		https://img.shields.io/github/license/mashape/apistatus.svg
 
 ##**Longer Miscellaneous**
 | What | Badge | 
