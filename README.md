@@ -1,19 +1,13 @@
 # BadgesTests
-Testing Various Repo Badges
 
-[![GitHub watchers](https://img.shields.io/github/issues/wulas/BadgesTests.svg?maxAge=2592000)]()
-[![GitHub watchers](https://img.shields.io/github/tag/wulas/BadgesTests.svg?maxAge=2592000)]()
-[![GitHub watchers](https://img.shields.io/github/release/wulas/BadgesTests.svg?maxAge=2592000)]()
+##Testing Various Repo Badges
 
+**Downloads**
+Github All Releases: 		[![Github All Releases](https://img.shields.io/github/downloads/wulas/BadgesTests/total.svg?maxAge=2592000)]()
+Github Releases:		[![Github Releases](https://img.shields.io/github/downloads/wulas/BadgesTests/latest/total.svg?maxAge=2592000)]()
+Github Releases (by Release):	[![Github Releases](https://img.shields.io/github/downloads/wulas/BadgesTests/0.0.1/total.svg?maxAge=2592000)]()	
 
-Github All Releases: [![Github All Releases](https://img.shields.io/github/downloads/wulas/BadgesTests.svg?maxAge=2592000)]()
-
-
-Github Releases:		https://img.shields.io/github/downloads/atom/atom/latest/total.svg
-Github Releases (by Release):		https://img.shields.io/github/downloads/atom/atom/v0.190.0/total.svg
-Github Releases (by Asset):		https://img.shields.io/github/downloads/atom/atom/latest/atom-amd64.deb.svg
 Version
-
 GitHub tag:		https://img.shields.io/github/tag/strongloop/express.svg
 GitHub release:		https://img.shields.io/github/release/qubyte/rubidium.svg
 GitHub commits:		https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg
