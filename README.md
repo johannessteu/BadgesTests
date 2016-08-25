@@ -23,11 +23,6 @@
 | Github watchers | [![Github watchers](https://img.shields.io/github/watchers/wulas/BadgesTests.svg?style=social&label=Watch&maxAge=2592000)]() |
 | Github organization/author followers | [![Github followers](https://img.shields.io/github/followers/wulas.svg?style=social&label=Follow&maxAge=2592000)]()|
 
-##**Your own badge**
-| What | Badge | 
-| --- |:---|
-| Lorem ipsum |[![Lorem ipsum](https://img.shields.io/badge/LoremIpsum-CustomBadge-green.svg)]()|
-
 ##**Miscellaneous**
 | What | Badge | 
 | --- |:---|
@@ -50,4 +45,9 @@
 | Code Climate | [![Code Climate](https://codeclimate.com/github/wulas/BadgesTests/badges/gpa.svg)](https://codeclimate.com/github/wulas/BadgesTests)|
 | Test Coverage (python)| [![Test Coverage](https://codeclimate.com/github/wulas/BadgesTests/badges/coverage.svg)](https://codeclimate.com/github/wulas/BadgesTests/coverage)|
 | CII Best Practices | [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/333/badge)](https://bestpractices.coreinfrastructure.org/projects/333)|
+
+##**Your own badge**
+| What | Badge | Comment |
+| --- |:---|---|
+| Lorem ipsum |[![Lorem ipsum](https://img.shields.io/badge/LoremIpsum-CustomBadge-green.svg)]()| Customized badge based on shields.io API|
 
