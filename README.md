@@ -49,3 +49,4 @@
 | --- |:---|
 | Code Climate | [![Code Climate](https://codeclimate.com/github/wulas/BadgesTests/badges/gpa.svg)](https://codeclimate.com/github/wulas/BadgesTests)|
 
+
