@@ -49,5 +49,5 @@
 | --- |:---|
 | Code Climate | [![Code Climate](https://codeclimate.com/github/wulas/BadgesTests/badges/gpa.svg)](https://codeclimate.com/github/wulas/BadgesTests)|
 | Test Coverage (python)| [![Test Coverage](https://codeclimate.com/github/wulas/BadgesTests/badges/coverage.svg)](https://codeclimate.com/github/wulas/BadgesTests/coverage)|
-
+| CII Best Practices | [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/333/badge)](https://bestpractices.coreinfrastructure.org/projects/333)|
 
