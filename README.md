@@ -44,3 +44,8 @@
 | --- |:---|
 | Libraries.io for GitHub |[![GitHub forks](https://img.shields.io/librariesio/github/wulas/BadgesTests.svg?maxAge=2592000?style=flat-square)](https://libraries.io/github/wulas/BadgesTests)|
 
+##**Code Climate**
+| What | Badge | 
+| --- |:---|
+| Code Climate | [![Code Climate](https://codeclimate.com/github/wulas/BadgesTests/badges/gpa.svg)](https://codeclimate.com/github/wulas/BadgesTests)|
+
