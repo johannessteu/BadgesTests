@@ -26,7 +26,7 @@
 ##**Your own badge**
 | What | Badge | 
 | --- |:---|
-| TAP is growing |[![GitHub forks](https://img.shields.io/badge/TrustedAnalytics-GROWING-green.svg)]()|
+| Lorem ipsum |[![Lorem ipsum](https://img.shields.io/badge/LoremIpsum-CustomBadge-green.svg)]()|
 
 ##**Miscellaneous**
 | What | Badge | 
