@@ -50,4 +50,6 @@
 | What | Badge | Comment |
 | --- |:---|---|
 | Lorem ipsum |[![Lorem ipsum](https://img.shields.io/badge/LoremIpsum-CustomBadge-green.svg)]()| Customized badge based on shields.io API|
+| Lorem ipsum |[![Lorem ipsum](https://img.shields.io/badge/LoremIpsum-CustomBadge-orange.svg)]()| Customized badge based on shields.io API|
+| Lorem ipsum |[![Lorem ipsum](https://img.shields.io/badge/LoremIpsum-CustomBadge-yellow.svg)]()| Customized badge based on shields.io API|
 
